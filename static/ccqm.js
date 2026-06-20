@@ -1,0 +1,2 @@
+var windowWidth = $(window).width();
+console.log('\n' + ' %c Powered by 柒梦绘域 ' + ' %c https://www.ooeo.cn ' + '\n' + '\n', 'color: #fff; background: #fd79a8; padding:5px 0;', 'background: #FFF; padding:5px 0;');

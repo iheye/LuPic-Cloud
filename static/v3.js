@@ -1,0 +1,2 @@
+var windowWidth = $(window).width();
+console.log('\n' + ' %c Powered by 忆梦新云计划 ' + ' %c https://www.onyi.net/ymxy.html ' + '\n' + '\n', 'color: #fff; background: #fd79a8; padding:5px 0;', 'background: #FFF; padding:5px 0;');
